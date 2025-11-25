@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+data/
+results/*.h5
+results/*.png
+.DS_Store
